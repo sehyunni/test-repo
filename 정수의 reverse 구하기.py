@@ -1,3 +1,4 @@
+Touched by user2
 n=int(input()) #정수 입력받기(int말고 문자열로 취급)
 m=n.rstrip("0") #문자열 오른쪽에 있는 0 제거
 	
